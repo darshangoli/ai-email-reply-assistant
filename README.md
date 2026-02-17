@@ -1,6 +1,6 @@
 # AI-email-reply-assistant
 
-An **AI-powered Email Reply Assistant** that integrates directly into **Gmail** and helps users generate smart, context-aware replies using **Spring Boot**, **Spring AI**, and a **Chrome Extension**.
+An **AI-powered Email Reply Assistant** that integrates directly into **Gmail** and helps users generate smart, context-aware replies using **Spring Boot**, and a **Chrome Extension**.
 
 ---
 
@@ -8,7 +8,6 @@ An **AI-powered Email Reply Assistant** that integrates directly into **Gmail** 
 
 - ✨ AI-generated email replies
 - 📧 Gmail UI integration via Chrome Extension
-- 🎯 Multiple reply tones (Professional, Casual, Friendly)
 - ⚙️ Spring Boot REST backend
 - 🧠 Spring AI integration with LLMs
 - 🔌 Lightweight and fast Chrome Extension
@@ -21,7 +20,6 @@ An **AI-powered Email Reply Assistant** that integrates directly into **Gmail** 
 ### Backend
 - Java 17+
 - Spring Boot
-- Spring AI
 - Maven
 - REST APIs
 
