@@ -31,8 +31,3 @@ An **AI-powered Email Reply Assistant** that integrates directly into **Gmail** 
 ### Frontend
 - Chrome Extension
 - React
-
----
-
-## 📂 Project Structure
-
