@@ -1,4 +1,4 @@
-# ai-email-reply-assistant
+# AI-email-reply-assistant
 
 An **AI-powered Email Reply Assistant** that integrates directly into **Gmail** and helps users generate smart, context-aware replies using **Spring Boot**, **Spring AI**, and a **Chrome Extension**.
 
